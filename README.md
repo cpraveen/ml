@@ -1,5 +1,7 @@
 # Deep Learning Tutorial
 
+Taken from: https://github.com/deepray/Deep_Learning_Tutorial
+
 This repository contains contains scripts and notes for understanding the various aspects of Deep Learning. The scripts are written using TensorFlow, which is an open source machine learning framework.
 
 ## Installing TensorFlow
