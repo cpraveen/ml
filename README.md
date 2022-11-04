@@ -18,3 +18,5 @@
 * [PINNs](https://maziarraissi.github.io/PINNs/), [Github](https://github.com/maziarraissi/PINNs)
 * [PINN for PDEs using TF/Keras](https://github.com/janblechschmidt/PDEsByNNs/blob/main/PINN_Solver.ipynb)
 * [Physics-based deep learning](https://www.physicsbaseddeeplearning.org/intro.html), [PDF version](https://arxiv.org/abs/2109.05237)
+* [DeepXDE](https://github.com/lululxvi/deepxde), [Documentation](https://deepxde.readthedocs.io/en/latest)
+* [NeuralPDE.jl: PINNs in Julia](https://neuralpde.sciml.ai)
