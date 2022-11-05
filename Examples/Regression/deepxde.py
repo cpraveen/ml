@@ -2,14 +2,12 @@
 import deepxde as dde
 import numpy as np
 
-
 def func(x):
     """
     x: array_like, N x D_in
     y: array_like, N x D_out
     """
     return 2.0 + np.sin(8 * np.pi * x)
-
 
 geom = dde.geometry.Interval(0, 1)
 num_train = 128
